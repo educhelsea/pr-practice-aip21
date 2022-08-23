@@ -60,3 +60,7 @@ Temporary Items
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocodes
+
+.DS_Store
+.AppleDouble
+.LSOverride
